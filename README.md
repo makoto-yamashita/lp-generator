@@ -1,4 +1,5 @@
 Here is a simple generator for LP test instances.
+Some instances can be found at https://github.com/makoto-yamashita/lp-generator/tree/master/problems
 
 We consider an LP of the following style:
 
