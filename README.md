@@ -6,7 +6,7 @@ We consider an LP of the following style:
 The decision variable is <img src="https://latex.codecogs.com/gif.latex?$x&space;\in&space;R^n$" title="$x \in R^n$">
 and the input data are <img src="https://latex.codecogs.com/gif.latex?$A&space;\in&space;R^{m&space;\times&space;n},&space;b&space;\in&space;R^m,&space;c&space;\in&space;R^n$" title="$A \in R^{m \times n}, b \in R^m, c \in R^n.$">
 
-If you would like to generate an LP instance with 2 constraints, 4 variables and seed 1024 , execute
+If we would like to generate an LP instance with 2 constraints, 4 variables and seed 1024 , execute
 ```
 g++ -o lpgenerator.exe lpgenerator.cpp
 ./lpgenerator.exe 2 4 1024   
